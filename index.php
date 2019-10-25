@@ -40,7 +40,7 @@
 	$userData	=	$db->getAllRecords('users','*',$condition,'ORDER BY id DESC');
 	?>
    	<div class="container">
-		<h3 class="display-4 text-primary text-center"> Submission 1 - WidiartaIMade</h3>
+		<h3 class="display-4 text-primary text-center"> <b>Submission 1 - Made Widiarta </b></h3>
 		<div class="card">
 			<div class="card-header"><i class="fa fa-fw fa-globe"></i> <strong>Browse User</strong> <a href="add-users.php" class="float-right btn btn-dark btn-sm"><i class="fa fa-fw fa-plus-circle"></i> Add Users</a></div>
 			<div class="card-body">
