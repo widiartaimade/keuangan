@@ -40,7 +40,7 @@
 	$userData	=	$db->getAllRecords('users','*',$condition,'ORDER BY id DESC');
 	?>
    	<div class="container">
-		<h1 class="display-4"> PHP CRUD in Bootstrap with search and pagination</h1>
+		<h1 class="display-4 text-primary"> Submission 1 - Widiarta</h1>
 		<div class="card">
 			<div class="card-header"><i class="fa fa-fw fa-globe"></i> <strong>Browse User</strong> <a href="add-users.php" class="float-right btn btn-dark btn-sm"><i class="fa fa-fw fa-plus-circle"></i> Add Users</a></div>
 			<div class="card-body">
