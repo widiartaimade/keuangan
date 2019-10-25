@@ -1,6 +1,6 @@
 <?php
 include_once('include/Database.php');
-define('SS_DB_NAME', 'submissio1');
+define('SS_DB_NAME', 'submission1');
 define('SS_DB_USER', 'widiarta@widiartaserver1');
 define('SS_DB_PASSWORD', 'w1d14rt@');
 define('SS_DB_HOST', 'widiartaserver1.mysql.database.azure.com');
