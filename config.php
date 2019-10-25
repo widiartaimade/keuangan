@@ -1,9 +1,9 @@
 <?php
 include_once('include/Database.php');
-define('SS_DB_NAME', 'test');
-define('SS_DB_USER', 'root');
-define('SS_DB_PASSWORD', '');
-define('SS_DB_HOST', 'localhost');
+define('SS_DB_NAME', 'submissio1');
+define('SS_DB_USER', 'widiarta@widiartaserver1');
+define('SS_DB_PASSWORD', 'w1d14rt@');
+define('SS_DB_HOST', 'widiartaserver1.mysql.database.azure.com');
 
 $dsn	= 	"mysql:dbname=".SS_DB_NAME.";host=".SS_DB_HOST."";
 $pdo	=	"";
